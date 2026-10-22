@@ -1,33 +1,47 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohamed Elnabarawi
-==========================================================================================================================================
+# Mohamed Elnabarawi
 
-🧰 financial consultant ,systems analyst , love Tech 💾 Science.
-----------------------------------------------------------------
+**Finance × Technology | Accounting Software & ERP Support | Website Operations**
 
-### Skills
+📍 Riyadh, Saudi Arabia · [Portfolio](https://mohammednabarawy.github.io/) · [LinkedIn](https://www.linkedin.com/in/mnabarawi) · [Email](mailto:mohammednabarawy@gmail.com)
 
+I bring an accounting and audit background into the world of business software. Alongside my finance career, I work on practical websites, financial workflows, digital products, and AI-assisted tools.
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-</p>
+**I'm interested in opportunities involving:** accounting software user support, ERP functional/application support, website administration, and business systems operations.
 
+> My projects combine business analysis, hands-on testing, and AI-assisted implementation. I describe my actual involvement rather than claiming to have personally written every line of code.
 
-### Socials
+## Selected projects
 
-<p align="left"> <a href="https://www.github.com/mohammednabarawy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/mnabarawi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/mohammednabarawy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@UC8CyTYo_qz4T5onLKjhLhMg" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
+| Project | What it shows | Explore |
+| --- | --- | --- |
+| **Invoices Reader** | Invoice extraction workflows, financial-document products and product iteration | [Product](https://invoicesreader.com/) · [Public plugins](https://github.com/mohammednabarawy/invoices-reader-plugins) |
+| **Rakha Center** | Operational website and tenant meeting-room booking workflow | [Live website](https://rakha.net/) |
+| **Aghna Real Estate** | Corporate website design, implementation and delivery | [Live website](https://aghna.com.sa/) |
+| **Arab Tech Trends** | Arabic content website, Astro, migration, redirects and SEO | [Website](https://www.arabtechtrends.com/) · [Source](https://github.com/mohammednabarawy/arabtechtrends-static) |
+| **Excel AI Add-in** | Excel productivity and AI-assisted spreadsheet workflows | [Repository](https://github.com/mohammednabarawy/excel-ai-addin) |
+| **eAudit** | Audit-domain knowledge applied to a desktop software experiment | [Repository](https://github.com/mohammednabarawy/eAudit) |
+| **RUSHVANE / راشفين** | Browser-based product experiment set on Riyadh streets | [Playable experience](https://riyadh-ring-game.pages.dev/) |
 
-### Badges
+Private client/product repositories intentionally remain private. The [portfolio website](https://mohammednabarawy.github.io/) provides public project summaries and relevant links.
 
-<b>My GitHub Stats</b>
+## Areas of experience
 
-<a href="http://www.github.com/mohammednabarawy"><img src="https://github-readme-stats.vercel.app/api?username=mohammednabarawy&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="mohammednabarawy's GitHub stats" /></a>
+- Financial workflows: invoices, reporting, VAT, audit, reconciliations and accounting processes.
+- Website operations: digital content, domains, deployments, migrations and SEO.
+- Digital solutions: requirements, testing, troubleshooting and AI-assisted product delivery.
+- Tools seen across projects: Python, SQL/SQLite, Git/GitHub, Excel, Astro, Supabase and Netlify.
 
-<a href="http://www.github.com/mohammednabarawy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammednabarawy&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## Education & certificates
 
-<b>Top Repositories</b>
+- **B.Com. (Accounting)** — Mansoura University, 2010.
+- **Full Stack Developer Track** — Udacity / One Million Arab Coders, 2018.
+- **Data Analysis Track** — Udacity / One Million Arab Coders, 2020.
+- **ICDL**, 2010.
 
-<div width="100%" align="center"><a href="https://github.com/mohammednabarawy/invoices-to-journal-entry" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammednabarawy&repo=invoices-to-journal-entry&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mohammednabarawy/whatsapp-phone-number-scraper" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammednabarawy&repo=whatsapp-phone-number-scraper&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+---
 
-<br /><br /><br /><br /><br />
+### نبذة بالعربية
 
-<div width="100%" align="center"><a href="https://github.com/mohammednabarawy/desktop-organizer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammednabarawy&repo=desktop-organizer&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mohammednabarawy/einvoice-phase2" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammednabarawy&repo=einvoice-phase2&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+أنا **محمد النبراوي**، متخصص في المحاسبة والمراجعة ولدي مشروعات عملية في المواقع الإلكترونية والأنظمة المالية والأدوات الرقمية. أهتم بفرص **الدعم الوظيفي للبرامج المحاسبية وERP وإدارة المواقع والتطبيقات**، مستفيدًا من الخبرة المالية والتقنية معًا.
+
+**[معرض أعمالي](https://mohammednabarawy.github.io/) · [لينكدإن](https://www.linkedin.com/in/mnabarawi)**
