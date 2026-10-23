@@ -36,8 +36,6 @@ Alongside my financial career, I build and operate **corporate websites, financi
 | **Rakha Center** (`مركز رخاء`) | Business Platform · Booking | Corporate website & tenant meeting-room reservation system in Riyadh | [rakha.net](https://rakha.net/) |
 | **Aghna Real Estate** (`شركة أغنى العقارية`) | Corporate Website | Official corporate web presence for Aghna Real Estate Co. in Saudi Arabia | [aghna.com.sa](https://aghna.com.sa/) |
 | **Arab Tech Trends** (`عرب تك`) | Tech Publishing · Astro · SEO | Arabic technology portal rebuilt on Astro with content migration, search & SEO | [arabtechtrends.com](https://www.arabtechtrends.com/) |
-| **Excel AI Add-in** | Finance Productivity · AI | Open-source Microsoft Excel add-in for AI-assisted analysis & table formatting | [Repository](https://github.com/mohammednabarawy/excel-ai-addin) |
-| **eAudit** (`المراجع الإلكتروني`) | Audit Software · Python | Desktop auditing tool (Python & SQLite) for engagements, sampling & analytical review | [Portfolio Case Study](https://mohammednabarawy.github.io/#work) |
 | **RUSHVANE \| راشفين** | Interactive Web Game | Playable browser driving game inspired by navigating Riyadh's ring roads | [Play Online](https://riyadh-ring-game.pages.dev/) |
 
 ---
@@ -87,7 +85,7 @@ Alongside my financial career, I build and operate **corporate websites, financi
 
 ### نبذة بالعربية
 
-أنا **محمد النبراوي** — **مستشار مالي ورائد مشاريع تقنية ومؤلف**. تمتد خبرتي لأكثر من ١٥ عامًا في المحاسبة والمراجعة القانونية ورئاسة الحسابات في المملكة العربية السعودية ومصر، وبالتوازي عملت على بناء وإدارة مواقع إلكترونية ومنتجات رقمية وأدوات مالية ذكية مثل **قارئ الفواتير (Invoices Reader)**، وموقع **مركز رخاء**، وموقع **شركة أغنى العقارية**، ومنصة **عرب تك (Arab Tech Trends)**، وإضافة **Excel AI**، وبرنامج **المراجع الإلكتروني (eAudit)**، ولعبة **راشفين (RUSHVANE)**، بالإضافة إلى مؤلفاتي الأدبية المنشورة على أمازون (**انتهى الظلام** و**صيف ممطر**).
+أنا **محمد النبراوي** — **مستشار مالي ورائد مشاريع تقنية ومؤلف**. تمتد خبرتي لأكثر من ١٥ عامًا في المحاسبة والمراجعة القانونية ورئاسة الحسابات في المملكة العربية السعودية ومصر، وبالتوازي عملت على بناء وإدارة مواقع إلكترونية ومنتجات رقمية وأدوات مالية ذكية مثل **قارئ الفواتير (Invoices Reader)**، وموقع **مركز رخاء**، وموقع **شركة أغنى العقارية**، ومنصة **عرب تك (Arab Tech Trends)**، ولعبة **راشفين (RUSHVANE)**، بالإضافة إلى مؤلفاتي الأدبية المنشورة على أمازون (**انتهى الظلام** و**صيف ممطر**).
 
 يمكنك استعراض [موقعي الشخصي ومعرض أعمالي](https://mohammednabarawy.github.io/#work)، أو [سيرتي الذاتية الكاملة](https://mohammednabarawy.github.io/cv.html)، أو متابعة [قنواتي وحساباتي الرسمية](https://mohammednabarawy.github.io/#contact).
 
