@@ -1,28 +1,40 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mohammednabarawy/mohammednabarawy.github.io/master/assets/mohamed-banner.jpg" width="100%" alt="Mohamed Elnabarawi — Financial Consultant & Tech Entrepreneur: Helping businesses grow with smart digital tools" style="border-radius:14px;" />
+<img src="https://raw.githubusercontent.com/mohammednabarawy/mohammednabarawy.github.io/master/assets/mohamed-banner.jpg" width="100%" alt="محمد النبراوي — Mohamed Elnabarawi — Financial Consultant & Tech Entrepreneur" style="border-radius:14px;" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/mohammednabarawy/mohammednabarawy.github.io/master/assets/mohamed-portrait.jpg" width="160" alt="Mohamed Elnabarawi — portrait" style="border-radius:20px;" />
+<img src="https://raw.githubusercontent.com/mohammednabarawy/mohammednabarawy.github.io/master/assets/mohamed-portrait.jpg" width="160" alt="محمد النبراوي — Mohamed Elnabarawi" style="border-radius:20px;" />
 
-# Mohamed Elnabarawi | محمد النبراوي
+# محمد النبراوي | Mohamed Elnabarawi
 
-### 📊 Financial Consultant & 🚀 Tech Entrepreneur · ✍️ Published Author
+### 📊 مستشار مالي ورائد مشاريع تقنية · Financial Consultant & Tech Entrepreneur · ✍️ مؤلف
 
-💡 **Helping businesses grow with smart digital tools**
+💡 **أساعد الشركات على النمو بالأدوات الرقمية الذكية · Helping businesses grow with smart digital tools**
 
-📍 Riyadh, Saudi Arabia
+📍 الرياض، المملكة العربية السعودية · Riyadh, Saudi Arabia
 
-[🌐 Portfolio Website](https://mohammednabarawy.github.io/) &nbsp;·&nbsp; [📄 Full Biography & CV](https://mohammednabarawy.github.io/cv.html) &nbsp;·&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/mnabarawi) &nbsp;·&nbsp; [▶️ YouTube](https://www.youtube.com/@MohammedElnabarawi) &nbsp;·&nbsp; [✉️ Contact](mailto:mohammednabarawy@gmail.com)
+[🌐 الموقع الرسمي لمحمد النبراوي](https://mohammednabarawy.github.io/) &nbsp;·&nbsp; [📄 من هو محمد النبراوي؟ (السيرة الذاتية)](https://mohammednabarawy.github.io/cv.html) &nbsp;·&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/mnabarawi) &nbsp;·&nbsp; [▶️ YouTube](https://www.youtube.com/@MohammedElnabarawi) &nbsp;·&nbsp; [✉️ Contact](mailto:mohammednabarawy@gmail.com)
 
 </div>
 
 ---
 
-## About Me
+<div dir="rtl" align="right">
 
-I am a **Financial Consultant, Chief Accountant, and Tech Entrepreneur** with **15+ years of experience** across accounting leadership, external & internal auditing, internal controls, ERP workflows, and financial reporting in Saudi Arabia and Egypt.
+## من هو محمد النبراوي؟ (نبذة تعريفية)
+
+أنا **محمد النبراوي (Mohamed Elnabarawi)** — **مستشار مالي ورئيس حسابات ورائد مشاريع تقنية ومؤلف** مقيم في الرياض بالمملكة العربية السعودية. تمتد خبرتي لأكثر من ١٥ عامًا في المحاسبة والمراجعة القانونية (CPA) ورئاسة الحسابات وأنظمة ERP في السعودية ومصر، وبالتوازي عملت على بناء وإدارة مواقع إلكترونية ومنتجات رقمية وأدوات تقنية مالية مدعومة بالذكاء الاصطناعي مثل **[قارئ الفواتير (Invoices Reader)](https://invoicesreader.com/)**، وموقع **[مركز رخاء للأعمال](https://rakha.net/)**، وموقع **[شركة أغنى العقارية](https://aghna.com.sa/)**، ومنصة **[عرب تك (Arab Tech Trends)](https://www.arabtechtrends.com/)**، ولعبة **[راشفين (RUSHVANE)](https://riyadh-ring-game.pages.dev/)**، بالإضافة إلى مؤلفاتي الأدبية المنشورة على أمازون (**[انتهى الظلام](https://www.amazon.com/dp/1722055804)** و**[صيف ممطر](https://www.amazon.com/dp/1715710428)**).
+
+👈 استعرض **[الموقع الرسمي لمحمد النبراوي ومعرض الأعمال](https://mohammednabarawy.github.io/)** أو **[السيرة الذاتية الكاملة لمحمد النبراوي](https://mohammednabarawy.github.io/cv.html)**.
+
+</div>
+
+---
+
+## About Mohamed Elnabarawi
+
+I am **Mohamed Elnabarawi** (**محمد النبراوي**), a **Financial Consultant, Chief Accountant, and Tech Entrepreneur** with **15+ years of experience** across accounting leadership, external & internal auditing, internal controls, ERP workflows, and financial reporting in Saudi Arabia and Egypt.
 
 Alongside my financial career, I build and operate **corporate websites, financial-document software, digital publishing platforms, spreadsheet automation tools, and interactive web applications**—combining real-world business and accounting insight with modern AI-assisted software execution.
 
