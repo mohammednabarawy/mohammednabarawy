@@ -30,13 +30,13 @@ Alongside my financial career, I build and operate **corporate websites, financi
 
 ## Featured Projects, Products & Websites
 
-| Project | Category | Overview | Links |
-|:--|:--|:--|:--|
-| **Invoices Reader** (`قارئ الفواتير`) | FinTech · AI OCR & QR | Automated invoice data extraction into structured Excel spreadsheets | [Live Site](https://invoicesreader.com/) · [Product Tour](https://mohammednabarawy.github.io/invoices-reader.html) · [Plugins Repo](https://github.com/mohammednabarawy/invoices-reader-plugins) |
-| **Rakha Center** (`مركز رخاء`) | Business Platform · Booking | Corporate website & tenant meeting-room reservation system in Riyadh | [rakha.net](https://rakha.net/) |
-| **Aghna Real Estate** (`شركة أغنى العقارية`) | Corporate Website | Official corporate web presence for Aghna Real Estate Co. in Saudi Arabia | [aghna.com.sa](https://aghna.com.sa/) |
-| **Arab Tech Trends** (`عرب تك`) | Tech Publishing · Astro · SEO | Arabic technology portal rebuilt on Astro with content migration, search & SEO | [arabtechtrends.com](https://www.arabtechtrends.com/) |
-| **RUSHVANE \| راشفين** | Interactive Web Game | Playable browser driving game inspired by navigating Riyadh's ring roads | [Play Online](https://riyadh-ring-game.pages.dev/) |
+| Preview | Project & Category | Overview & Live Links |
+|:--|:--|:--|
+| <a href="https://invoicesreader.com/"><img src="https://raw.githubusercontent.com/mohammednabarawy/mohammednabarawy.github.io/master/assets/live-invoicesreader.webp" width="260" alt="Invoices Reader Live Platform" /></a> | **Invoices Reader** (`قارئ الفواتير`)<br/><sub>FinTech · AI OCR & ZATCA QR</sub> | Cloud & desktop invoice extraction platform exporting verified line items and VAT directly into Excel.<br/>[🌐 Live Platform](https://invoicesreader.com/) · [🖥️ Desktop Tour](https://mohammednabarawy.github.io/invoices-reader.html) · [🔌 Plugins Repo](https://github.com/mohammednabarawy/invoices-reader-plugins) |
+| <a href="https://rakha.net/"><img src="https://raw.githubusercontent.com/mohammednabarawy/mohammednabarawy.github.io/master/assets/live-rakha.webp" width="260" alt="Rakha Business Center" /></a> | **Rakha Center** (`مركز رخاء للأعمال`)<br/><sub>PropTech · Tenant Portal & Booking</sub> | Bilingual platform for an executive office center in Riyadh with tenant portal & meeting-room booking.<br/>[🌐 rakha.net](https://rakha.net/) |
+| <a href="https://aghna.com.sa/"><img src="https://raw.githubusercontent.com/mohammednabarawy/mohammednabarawy.github.io/master/assets/live-aghna.webp" width="260" alt="Aghna Real Estate" /></a> | **Aghna Real Estate** (`شركة أغنى العقارية`)<br/><sub>Corporate Platform · Real Estate</sub> | Official corporate digital presence showcasing real-estate developments and portfolio in Saudi Arabia.<br/>[🌐 aghna.com.sa](https://aghna.com.sa/) |
+| <a href="https://www.arabtechtrends.com/"><img src="https://raw.githubusercontent.com/mohammednabarawy/mohammednabarawy.github.io/master/assets/live-arabtechtrends.webp" width="260" alt="Arab Tech Trends" /></a> | **Arab Tech Trends** (`منصة عرب تك`)<br/><sub>Digital Publishing · Astro · SEO</sub> | Arabic technology portal built on Astro with instant search, structured guides, and SEO optimization.<br/>[🌐 arabtechtrends.com](https://www.arabtechtrends.com/) |
+| <a href="https://riyadh-ring-game.pages.dev/"><img src="https://raw.githubusercontent.com/mohammednabarawy/mohammednabarawy.github.io/master/assets/live-rushvane.webp" width="260" alt="RUSHVANE Riyadh Streets Game" /></a> | **RUSHVANE \| راشفين**<br/><sub>Interactive Web · 3D Browser Game</sub> | Playable 3D-styled browser driving game set on Riyadh's iconic ring roads with car customization.<br/>[🎮 Play in Browser](https://riyadh-ring-game.pages.dev/) |
 
 ---
 
