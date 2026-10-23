@@ -1,47 +1,72 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mohammednabarawy/mohammednabarawy.github.io/master/assets/mohamed-portrait.jpg" width="170" alt="Mohamed Elnabarawi — portrait" style="border-radius:16px;" />
+
 # Mohamed Elnabarawi
 
-**Finance × Technology | Accounting Software & ERP Support | Website Operations**
+### 📊 Financial Consultant & 🚀 Tech Entrepreneur
 
-📍 Riyadh, Saudi Arabia · [Portfolio](https://mohammednabarawy.github.io/) · [LinkedIn](https://www.linkedin.com/in/mnabarawi) · [Email](mailto:mohammednabarawy@gmail.com)
+💡 **Helping businesses grow with smart digital tools**
 
-I bring an accounting and audit background into the world of business software. Alongside my finance career, I work on practical websites, financial workflows, digital products, and AI-assisted tools.
+Riyadh, Saudi Arabia
 
-**I'm interested in opportunities involving:** accounting software user support, ERP functional/application support, website administration, and business systems operations.
+[🌐 Portfolio](https://mohammednabarawy.github.io/) &nbsp;·&nbsp; [📄 My CV](https://mohammednabarawy.github.io/cv.html) &nbsp;·&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/mnabarawi) &nbsp;·&nbsp; [✉️ Contact](mailto:mohammednabarawy@gmail.com)
 
-> My projects combine business analysis, hands-on testing, and AI-assisted implementation. I describe my actual involvement rather than claiming to have personally written every line of code.
+</div>
 
-## Selected projects
+---
 
-| Project | What it shows | Explore |
-| --- | --- | --- |
-| **Invoices Reader** | Invoice extraction workflows, financial-document products and product iteration | [Product](https://invoicesreader.com/) · [Public plugins](https://github.com/mohammednabarawy/invoices-reader-plugins) |
-| **Rakha Center** | Operational website and tenant meeting-room booking workflow | [Live website](https://rakha.net/) |
-| **Aghna Real Estate** | Corporate website design, implementation and delivery | [Live website](https://aghna.com.sa/) |
-| **Arab Tech Trends** | Arabic content website, Astro, migration, redirects and SEO | [Website](https://www.arabtechtrends.com/) · [Source](https://github.com/mohammednabarawy/arabtechtrends-static) |
-| **Excel AI Add-in** | Excel productivity and AI-assisted spreadsheet workflows | [Repository](https://github.com/mohammednabarawy/excel-ai-addin) |
-| **eAudit** | Audit-domain knowledge applied to a desktop software experiment | [Repository](https://github.com/mohammednabarawy/eAudit) |
-| **RUSHVANE / راشفين** | Browser-based product experiment set on Riyadh streets | [Playable experience](https://riyadh-ring-game.pages.dev/) |
+## About me
 
-Private client/product repositories intentionally remain private. The [portfolio website](https://mohammednabarawy.github.io/) provides public project summaries and relevant links.
+I'm a finance professional with a background in **accounting, auditing, internal controls, ERP workflows and financial reporting**, and a long-standing interest in technology.
 
-## Areas of experience
+Alongside my professional career, I've explored building **business websites, financial-document products, publishing platforms, automation tools and browser-based experiences**. My work brings real business knowledge to practical digital solutions.
 
-- Financial workflows: invoices, reporting, VAT, audit, reconciliations and accounting processes.
-- Website operations: digital content, domains, deployments, migrations and SEO.
-- Digital solutions: requirements, testing, troubleshooting and AI-assisted product delivery.
-- Tools seen across projects: Python, SQL/SQLite, Git/GitHub, Excel, Astro, Supabase and Netlify.
+**My approach:** identify a real problem, understand its workflow, use the right technology (including AI-assisted development), test the outcome, and improve it through use.
 
-## Education & certificates
+> My portfolio describes projects I have led or contributed to. Development often involves AI coding assistants and third-party tools; I do not claim to have manually authored every line of code.
 
-- **B.Com. (Accounting)** — Mansoura University, 2010.
-- **Full Stack Developer Track** — Udacity / One Million Arab Coders, 2018.
-- **Data Analysis Track** — Udacity / One Million Arab Coders, 2020.
-- **ICDL**, 2010.
+## Featured projects & websites
+
+| Project | What it does | Website / evidence |
+|:--|:--|:--|
+| **Invoices Reader** | Invoice extraction and structured spreadsheet workflows | [Live website](https://invoicesreader.com/) · [Community plugins](https://github.com/mohammednabarawy/invoices-reader-plugins) |
+| **Rakha Center** | Corporate website and tenant meeting-room booking experience | [rakha.net](https://rakha.net/) |
+| **Aghna Real Estate** | Corporate web presence and project content | [Aghna website](https://aghna.com.sa/) |
+| **Arab Tech Trends** | Arabic technology publishing platform, website migration and SEO | [arabtechtrends.com](https://arabtechtrends.com/) · [Source](https://github.com/mohammednabarawy/arabtechtrends-static) |
+| **Excel AI Add-in** | AI-assisted analysis and productivity directly inside Excel | [Public repository](https://github.com/mohammednabarawy/excel-ai-addin) |
+| **eAudit** | Audit documentation and analytical workflow application concept | [Project case study](https://mohammednabarawy.github.io/#work) — source private |
+| **RUSHVANE / راشفين** | Riyadh-inspired interactive web game | [Play the game](https://riyadh-ring-game.pages.dev/) |
+
+**Explore project visuals, background and additional details:** [mohammednabarawy.github.io](https://mohammednabarawy.github.io/#work)
+
+## Journey
+
+- **Accounting and auditing:** audit engagements, finance operations, management reporting, and chief accountant responsibilities.
+- **Financial systems and digital operations:** practical understanding of how businesses use financial data and applications.
+- **Websites and digital products:** business websites, content platforms, finance tools, and AI-assisted experimentation.
+- **Academic background:** Bachelor of Commerce (Accounting), Mansoura University, 2010.
+- **Further learning:** Udacity Full Stack Developer Track (2018); Udacity Data Analysis Track (2020); ICDL (2010).
+
+Read my [original professional CV](https://mohammednabarawy.github.io/cv.html) and explore the [portfolio website](https://mohammednabarawy.github.io/).
+
+## Find me online
+
+| Platform | Official account |
+|:--|:--|
+| **YouTube — Mohamed** | [@MohammedElnabarawi](https://www.youtube.com/@MohammedElnabarawi) |
+| **YouTube — Elnabarawi** | [@elnabarawi](https://www.youtube.com/@elnabarawi) |
+| **Facebook** | [mfnabarawy](https://www.facebook.com/mfnabarawy) |
+| **Instagram** | [@mohammednabarawy](https://www.instagram.com/mohammednabarawy/) |
+| **X (Twitter)** | [@nabarawymohamed](https://x.com/nabarawymohamed) |
+| **LinkedIn** | [mnabarawi](https://www.linkedin.com/in/mnabarawi) |
+| **Arab Tech Trends** | [arabtechtrends.com](https://arabtechtrends.com/) |
+| **Email** | [Get in touch](mailto:mohammednabarawy@gmail.com) |
 
 ---
 
 ### نبذة بالعربية
 
-أنا **محمد النبراوي**، متخصص في المحاسبة والمراجعة ولدي مشروعات عملية في المواقع الإلكترونية والأنظمة المالية والأدوات الرقمية. أهتم بفرص **الدعم الوظيفي للبرامج المحاسبية وERP وإدارة المواقع والتطبيقات**، مستفيدًا من الخبرة المالية والتقنية معًا.
+أنا **محمد النبراوي**، مستشار مالي ومهتم بريادة المشاريع التقنية. بدأت مسيرتي في المحاسبة والمراجعة، وتطورت خبراتي في إدارة الأعمال والأنظمة، وبالتوازي عملت على مواقع إلكترونية ومنتجات رقمية وأدوات مالية بمساعدة التقنيات الحديثة والذكاء الاصطناعي.
 
-**[معرض أعمالي](https://mohammednabarawy.github.io/) · [لينكدإن](https://www.linkedin.com/in/mnabarawi)**
+يمكنك استعراض [مشاريعي](https://mohammednabarawy.github.io/#work)، [سيرتي الذاتية](https://mohammednabarawy.github.io/cv.html)، أو [قنواتي وحساباتي](https://mohammednabarawy.github.io/#contact).
