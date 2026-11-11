@@ -19,6 +19,8 @@ jobs:
           base64 -d WA2TG-source.tar.xz.b64 | tar -xJf -
           test -f app/build.gradle.kts
           test -f bridge/entry.js
+          sed -i '2i import androidx.compose.runtime.setValue' app/src/main/java/com/wa2tg/backup/TelegramBridge.kt
+          sed -i '2i import androidx.compose.runtime.getValue' app/src/main/java/com/wa2tg/backup/TelegramBridge.kt
       - uses: actions/setup-java@v4
         with:
           distribution: temurin
