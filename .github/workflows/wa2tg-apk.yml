@@ -1,0 +1,53 @@
+name: WA2TG - Build installable APK
+on:
+  push:
+    branches:
+      - wa2tg-root-backup
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+      - name: Restore WA2TG standalone project
+        run: |
+          base64 -d WA2TG-source.tar.xz.b64 | tar -xJf -
+          test -f app/build.gradle.kts
+          test -f bridge/entry.js
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+      - uses: android-actions/setup-android@v3
+      - name: Android SDK
+        run: sdkmanager "platforms;android-35" "build-tools;35.0.0"
+      - uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: '8.10.2'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Bundle local MTProto JS
+        run: |
+          cd bridge
+          npm install --no-audit --no-fund
+          npm run build
+      - name: Build APK
+        run: gradle --no-daemon :app:assembleDebug
+      - uses: actions/upload-artifact@v4
+        with:
+          name: WA2TG-Root-Backup-APK
+          path: app/build/outputs/apk/debug/app-debug.apk
+          if-no-files-found: error
+      - uses: actions/upload-artifact@v4
+        with:
+          name: WA2TG-Source
+          path: |
+            app/src/
+            bridge/
+            *.gradle.kts
+            gradle.properties
+            README.md
