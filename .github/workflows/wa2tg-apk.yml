@@ -1,5 +1,7 @@
 name: WA2TG - Build installable APK
 on:
+  pull_request:
+    branches: [main]
   push:
     branches:
       - wa2tg-root-backup
